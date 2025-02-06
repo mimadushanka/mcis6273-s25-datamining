@@ -1,2 +1,1 @@
 isurumadushanka
-lorem ipsum
